@@ -1,5 +1,11 @@
 # programa-python
 Fase  5
+# Nombre del estudiante: KAREN YULIETH PUENTES VARGAS
+# Grupo: 256
+# Programa: INGIENERIA EN SISTEMAS
+# Código Fuente: DE MI AUTORIA 
+# Descripción: Una matriz registra las horas trabajadas por un equipo 
+# SOLICITADO POR ALMACEN DE COMPRAS 
 equipo = [
     ["Ana", 8, 9, 8, 8, 9],
     ["Luis", 7, 8, 7, 8, 7],
